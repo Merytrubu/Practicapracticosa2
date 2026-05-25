@@ -2,3 +2,4 @@ Esta es la segunda practica de hoy
 
 	-Hoy es un dia soleado.
 	-Hoy entramos a las 7 y salimos a la 1.
+	-Hoy la escuela se ve bonita.
